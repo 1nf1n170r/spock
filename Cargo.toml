@@ -2,6 +2,9 @@
 name = "spock"
 version = "0.1.0"
 edition = "2021"
+description = "TODO"
+license = "MIT"
+repository = "https://github.com/1nf1n170r/spock"
 
 [dependencies]
 num = "0.4.3"
